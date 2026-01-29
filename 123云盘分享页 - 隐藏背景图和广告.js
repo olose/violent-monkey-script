@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         123云盘分享页 - 隐藏背景图和广告
 // @namespace    https://github.com/olose/WebPlusJS
-// @version      1.0.0.1
+// @version      1.0.0.0
 // @description  精确隐藏123云盘分享页面的背景图和右上角广告图，但是超链接还在鼠标点击仍会跳转
 // @author       anig.top
 // @match        *://*.123pan.com/*
